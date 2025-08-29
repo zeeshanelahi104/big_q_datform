@@ -1,0 +1,5 @@
+defaultProject: data-and-reporting-ccmm
+defaultLocation: me-central1
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
